@@ -1,0 +1,106 @@
+body{
+	background-color: #DCFADD;
+	padding: 100px 0px;
+}
+
+#name{
+	color: #fff;
+	font-size: 33.2px;
+	font-family: 'Open Sans';
+	padding-left: 80px;
+	font-weight: 600;
+}
+
+*{
+	font-family: 'Lato';
+}
+
+#action{
+	background-color: #7FF22C;
+	color: #fff;
+	font-size: 25.4px;
+	padding: 10px;
+	display: inline-block;
+	position: relative;
+	bottom: 50px;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+.h1{
+	color:#535353;
+	text-align: center;
+}
+
+#show h1{
+	font-size: 72px;
+	width: 70%;
+	display: inline-block;
+}
+
+.bold{
+	font-weight:600;
+}
+
+.shadow{
+	box-shadow: 10px 10px 5px 0px rgba(84, 84, 84, .37);
+	border-radius: 30px;
+}
+
+#show,#inside{
+	border-radius: 30px;
+	border: 15px solid #fff;
+	padding: 5% 0px;
+	position: relative;
+	width: 90%;
+	margin: 0 auto;
+}
+
+#inside{
+	background-color: #fff;
+}
+
+#content{
+	background-color: #fff;
+	width: 50%;
+	margin: 0 auto;
+	padding: 15px;
+}
+
+#content h1{
+	font-weight: 700;
+	font-size: 46px;
+}
+
+input{
+	border-radius: 50px;
+	border: none;
+	display: block;
+	background-color: rgba(217,217,217,.14);
+	height: 30px;
+}
+
+#content input{
+	margin: 20px auto;
+	width: 50%;
+	color: #D9D9D9;
+	font-size: 24.2px;
+	padding: 5px 15px;
+}
+
+#content span{
+	text-decoration: underline;
+	cursor: pointer;
+	text-align: center;
+	display: block;
+}
+
+#content button{
+	background-color: #7FF22C;
+	color: #fff;
+	font-size: 20.4px;
+	padding: 5px 15px;
+	display: block;
+	border-radius: 10px;
+	margin: 20px auto
+}
